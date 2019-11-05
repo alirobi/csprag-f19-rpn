@@ -1,2 +1,2 @@
 language: python
-script: pythin freeze.py
+script: python test_rpn.py
