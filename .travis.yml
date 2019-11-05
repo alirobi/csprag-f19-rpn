@@ -1,11 +1,2 @@
-<<<<<<< HEAD
 language: python
 python: "3.5"
-=======
-{
-language: "python",
-python: "3.5",
-script: "pytest",
-def test_placeholder(): "pass"
-}
->>>>>>> e21239c6a2c7cff4d080769e54e560aea2a0cd12
