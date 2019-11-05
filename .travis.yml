@@ -1,3 +1,4 @@
 language: python
 python: "3.5"
-script: pytest --suppress-no-test-exit-code
+script: pytest
+def test_placeholder(): pass
